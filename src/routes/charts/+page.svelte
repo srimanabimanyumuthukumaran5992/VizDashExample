@@ -38,7 +38,4 @@
             <Charts chartID="chart9" chartTitle="Basic Doughnut Chart" chartOptions={SimpleDoughnutChartData} />
         </div>
     </ContentSection>
-    <ContentSection title="USA Geo Charts">
-        <Charts chartID="chart12" geoEnabled geoLocation="usa" chartOptions={USAData} />
-    </ContentSection>
 </div>
